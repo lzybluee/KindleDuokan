@@ -122,7 +122,9 @@ class Main {
 			} else if(f.isDirectory()) {
 				mobiClean(f.getAbsolutePath());
 			} else {
-				System.out.println(name);
+				if(name.endsWith(".txt") || name.endsWith(".azw") || name.endsWith(".epub")) {
+					System.out.println(name.substring(3));
+				}
 			}
 		}
 	}
