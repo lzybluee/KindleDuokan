@@ -30,6 +30,7 @@ class Main {
 			if(new File(d + "DK_BookStore").exists()) {
 				mobiFolder = d + "documents\\";
 				epubFolder = d + "DK_BookStore\\";
+				System.out.println("Free Space: " + String.format("%.2f", d.getFreeSpace() / 1024.0f / 1024.0f) + "MB\n");
 			}
 		}
 		if(epubFolder == null) {
@@ -209,4 +210,3 @@ class Main {
 		}
 	}
 }
-
