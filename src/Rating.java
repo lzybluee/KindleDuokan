@@ -9,7 +9,7 @@ import java.net.URLConnection;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class Main {
+public class Rating {
 
 	static String[] list = { "凡尔纳全集", "圣经", "斯蒂芬金经典系列", "The Lord of the Rings - J. R. R. Tolkien", "银河英雄传说", "追忆似水年华",
 			"尼尔盖曼作品集", "从惊讶到思考", "美国种族简史", "莎士比亚全集", "韩寒作品集", "侠客行（下）",
@@ -148,7 +148,7 @@ public class Main {
 	public static void main(String[] args) throws Exception {
 		for (String title : list) {
 			System.out.print(title);
-			String content = readUrl("https://www.douban.com/search?cat=1001&q=" + title.replaceAll(" ", "+"));
+			String content = readUrl("https://www.douban.com/search?cat=1001&q=" + title.replaceAll("（.*）", "").replaceAll(" ", "+"));
 			Pattern p = Pattern.compile("<span>\\[.*>(.*?) </a>");
 			Matcher m = p.matcher(content);
 			if(m.find() && !m.group(1).equals(title)) {
