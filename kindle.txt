@@ -1,4 +1,4 @@
-Free Space: 30.28MB
+Free Space: 31.29MB
 
 documents\DnD\SRD.epub
 documents\DnD\PathfinderPRDv4.epub
@@ -155,7 +155,6 @@ mobi\中文\围城.mobi -> 0.63MB
 Novels\J. K. Rowling\Harry Potter and the Sorcerer's Stone - J. K. Rowling.mobi -> 0.62MB
 mobi\中文\歌舞伎町案内人.mobi -> 0.61MB
 少年Pi的奇幻漂流.mobi -> 0.60MB
-mobi\中文\百战奇略.mobi -> 0.60MB
 mobi\科学技术\狂热分子.mobi -> 0.59MB
 mobi\经济生活\禅者的初心.mobi -> 0.57MB
 mobi\外文\城堡.mobi -> 0.57MB
@@ -196,7 +195,6 @@ mobi\科学技术\这本书叫什么.mobi -> 0.33MB
 mobi\历史人文\天安门.mobi -> 0.33MB
 mobi\历史人文\中国历代政治得失.mobi -> 0.33MB
 mobi\历史人文\易中天品三国.mobi -> 0.32MB
-mobi\经济生活\好妈妈胜过好老师.mobi -> 0.32MB
 mobi\外文\了不起的盖茨比.mobi -> 0.32MB
 mobi\外文\无人生还.mobi -> 0.32MB
 mobi\历史人文\定西孤儿院纪事.mobi -> 0.31MB
