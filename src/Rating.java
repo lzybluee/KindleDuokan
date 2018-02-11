@@ -18,7 +18,7 @@ public class Rating {
 		float size;
 		float rating;
 		int rates;
-		
+
 		public String toString() {
 			return title + "\t" + rating + "\t" + rates + "\t" + size;
 		}
@@ -56,6 +56,12 @@ public class Rating {
 			e.printStackTrace();
 		}
 		return list;
+	}
+
+	static String htmlEscape(String str) {
+		str = str.replaceAll("&ldquo;", "“").replaceAll("&rdquo;", "”").replaceAll("&nbsp;", " ").replaceAll("&amp;", "&")
+				.replaceAll("&#39;", "'").replaceAll("&rsquo;", "’").replaceAll("&mdash;", "—").replaceAll("&ndash;", "–");
+		return str;
 	}
 
 	static String readUrl(String http) throws Exception {
@@ -98,8 +104,11 @@ public class Rating {
 					+ book.title.replaceAll("（.*）", "").replace("多看文库·", "").replaceAll(" ", "+"));
 			Pattern p = Pattern.compile("<span>\\[.*>(.*?) </a>");
 			Matcher m = p.matcher(content);
-			if (m.find() && !m.group(1).equals(book.title)) {
-				book.title += "=>" + m.group(1);
+			if (m.find()) {
+				String title = htmlEscape(m.group(1));
+				if (!title.equals(book.title)) {
+					book.title += "=>" + title;
+				}
 			}
 			p = Pattern.compile("<span class=\"rating_nums\">(.*?)</span>");
 			m = p.matcher(content);
@@ -116,13 +125,13 @@ public class Rating {
 		Collections.sort(list, new Comparator<Book>() {
 			@Override
 			public int compare(Book o1, Book o2) {
-				if(o1.rating == o2.rating) {
+				if (o1.rating == o2.rating) {
 					return 0;
 				}
 				return o1.rating > o2.rating ? -1 : 1;
 			}
 		});
-		System.out.println();
+		System.out.println("==================================");
 		for (Book book : list) {
 			System.out.println(book);
 		}
