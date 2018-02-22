@@ -1,4 +1,4 @@
-Free Space: 51.98MB
+Free Space: 47.60MB
 
 documents\Kindle_Users_Guide.azw
 documents\dictionaries\Oxford_Dictionary_of_English.azw
@@ -24,6 +24,7 @@ mobi\中文\韩寒作品集.mobi -> 4.94MB
 Novels\J. R. R. Tolkien\The Hobbit_ Or There and Back Again - J. R. R. Tolkien.mobi -> 4.69MB
 那些路过心上的经典-民国大师经典书系.mobi -> 4.55MB
 mobi\历史人文\中国近代史 上册.mobi -> 4.51MB
+古拉格群岛.mobi -> 4.39MB
 mobi\外文\小王子.mobi -> 4.36MB
 物理世界奇遇记.mobi -> 4.07MB
 暮光之城.mobi -> 4.02MB
