@@ -31,8 +31,8 @@ public class Rating {
 			reader = new BufferedReader(new FileReader("kindle.txt"));
 			String line;
 			while ((line = reader.readLine()) != null) {
-				if (line.contains(".mobi -> ")) {
-					Pattern p = Pattern.compile("^(.*\\\\)?(.*)\\.mobi -> (.*)MB$");
+				if (line.contains(".mobi -> ") || line.contains(".epub -> ")) {
+					Pattern p = Pattern.compile("^(.*\\\\)?(.*)\\.\\w\\w\\w\\w -> (.*)MB$");
 					Matcher m = p.matcher(line);
 					if (m.find()) {
 						Book book = new Book();
@@ -59,8 +59,9 @@ public class Rating {
 	}
 
 	static String htmlEscape(String str) {
-		str = str.replaceAll("&ldquo;", "“").replaceAll("&rdquo;", "”").replaceAll("&nbsp;", " ").replaceAll("&amp;", "&")
-				.replaceAll("&#39;", "'").replaceAll("&rsquo;", "’").replaceAll("&mdash;", "—").replaceAll("&ndash;", "–");
+		str = str.replaceAll("&ldquo;", "“").replaceAll("&rdquo;", "”").replaceAll("&nbsp;", " ")
+				.replaceAll("&amp;", "&").replaceAll("&#39;", "'").replaceAll("&rsquo;", "’").replaceAll("&mdash;", "—")
+				.replaceAll("&ndash;", "–");
 		return str;
 	}
 
@@ -131,7 +132,8 @@ public class Rating {
 				return o1.rating > o2.rating ? -1 : 1;
 			}
 		});
-		System.out.println("==================================");
+		System.out.println(
+				"============================================================================================");
 		for (Book book : list) {
 			System.out.println(book);
 		}

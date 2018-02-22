@@ -10,15 +10,14 @@ import java.util.HashMap;
 import java.util.Map.Entry;
 import java.util.Vector;
 
-
 class Main {
-	
+
 	static boolean DELETE_FILE = true;
 
 	static String mobiFolder;
 	static HashMap<String, Vector<String>> mobiList = new HashMap<String, Vector<String>>();
 	static HashMap<String, Long> mobiSizeList = new HashMap<String, Long>();
-	
+
 	static String epubFolder;
 	static HashMap<String, Vector<String>> epubList = new HashMap<String, Vector<String>>();
 	static HashMap<String, Long> epubSizeList = new HashMap<String, Long>();
@@ -26,14 +25,15 @@ class Main {
 
 	public static void main(String[] args) {
 		File[] drivers = File.listRoots();
-		for(File d : drivers) {
-			if(new File(d + "DK_BookStore").exists()) {
+		for (File d : drivers) {
+			if (new File(d + "DK_BookStore").exists()) {
 				mobiFolder = d + "documents\\";
 				epubFolder = d + "DK_BookStore\\";
-				System.out.println("Free Space: " + String.format("%.2f", d.getFreeSpace() / 1024.0f / 1024.0f) + "MB\n");
+				System.out
+						.println("Free Space: " + String.format("%.2f", d.getFreeSpace() / 1024.0f / 1024.0f) + "MB\n");
 			}
 		}
-		if(epubFolder == null) {
+		if (epubFolder == null) {
 			System.out.println("No Kindle found!");
 			return;
 		}
@@ -41,10 +41,10 @@ class Main {
 		processMobi();
 		processEpub();
 	}
-	
+
 	static void delete(File file) {
-		if(file.isDirectory()) {
-			for(File f : file.listFiles()) {
+		if (file.isDirectory()) {
+			for (File f : file.listFiles()) {
 				System.out.println("delete " + f.getAbsolutePath());
 				delete(f);
 			}
@@ -55,51 +55,59 @@ class Main {
 			file.delete();
 		}
 	}
-	
+
 	static void processMobi() {
 		mobiClean(mobiFolder);
-		
+
 		System.out.println();
-		
-		for(Entry<String, Vector<String>> entry : mobiList.entrySet()) {
+
+		for (Entry<String, Vector<String>> entry : mobiList.entrySet()) {
 			String book = entry.getKey();
 			Vector<String> v = entry.getValue();
-			if(v.size() < 3) {
-				if(v.contains(".mobi.dir") && !v.contains(".mobi")) {
+			if (v.size() < 3) {
+				if (v.contains(".mobi.dir") && !v.contains(".mobi")) {
 					System.out.println(book + ".mobi.dir");
-					if(DELETE_FILE) {
+					if (DELETE_FILE) {
 						delete(new File(mobiFolder + book + ".mobi.dir"));
 					}
 				}
-				if(v.contains(".sdr") && !v.contains(".mobi")) {
+				if (v.contains(".epub.dir") && !v.contains(".epub")) {
+					System.out.println(book + ".epub.dir");
+					if (DELETE_FILE) {
+						delete(new File(mobiFolder + book + ".epub.dir"));
+					}
+				}
+				if (v.contains(".sdr") && !v.contains(".mobi") && !v.contains(".epub")) {
 					System.out.println(book + ".sdr");
-					if(DELETE_FILE) {
+					if (DELETE_FILE) {
 						delete(new File(mobiFolder + book + ".sdr"));
 					}
 				}
 			}
 		}
-		
-		ArrayList<HashMap.Entry<String, Long>> list = new ArrayList<HashMap.Entry<String, Long>>(mobiSizeList.entrySet());
+
+		ArrayList<HashMap.Entry<String, Long>> list = new ArrayList<HashMap.Entry<String, Long>>(
+				mobiSizeList.entrySet());
 		Collections.sort(list, new Comparator<HashMap.Entry<String, Long>>() {
 
 			@Override
 			public int compare(HashMap.Entry<String, Long> o1, HashMap.Entry<String, Long> o2) {
-				if(o1.getValue() < o2.getValue()) {
+				if (o1.getValue() < o2.getValue()) {
 					return 1;
 				} else {
 					return -1;
 				}
 			}
 		});
-		for(HashMap.Entry<String, Long> entry : list) {
-			System.out.println(entry.getKey() + ".mobi -> " + String.format("%.2f", entry.getValue() / 1024.0f / 1024.0f) + "MB");
+		for (HashMap.Entry<String, Long> entry : list) {
+			System.out.println(
+					entry.getKey() + " -> " + String.format("%.2f", entry.getValue() / 1024.0f / 1024.0f) + "MB");
 		}
 	}
-	
+
 	static String addItem(HashMap<String, Vector<String>> map, String name, String type) {
 		name = name.substring(0, name.length() - type.length());
-		if(!map.containsKey(name)) {
+		if (!map.containsKey(name)) {
 			Vector<String> v = new Vector<String>();
 			v.add(type);
 			map.put(name, v);
@@ -111,33 +119,38 @@ class Main {
 
 	static void mobiClean(String path) {
 		File folder = new File(path);
-		for(File f : folder.listFiles()) {
+		for (File f : folder.listFiles()) {
 			String name = f.getAbsolutePath();
-			if(name.endsWith(".mobi")) {
+			if (name.endsWith(".mobi")) {
 				String key = addItem(mobiList, name.substring(mobiFolder.length()), ".mobi");
-				mobiSizeList.put(key, f.length());
-			} else if(name.endsWith(".mobi.dir")) {
+				mobiSizeList.put(key + ".mobi", f.length());
+			} else if (name.endsWith(".mobi.dir")) {
 				addItem(mobiList, name.substring(mobiFolder.length()), ".mobi.dir");
-			} else if(name.endsWith(".sdr")) {
+			} else if (name.endsWith(".epub")) {
+				String key = addItem(mobiList, name.substring(mobiFolder.length()), ".epub");
+				mobiSizeList.put(key + ".epub", f.length());
+			} else if (name.endsWith(".epub.dir")) {
+				addItem(mobiList, name.substring(mobiFolder.length()), ".epub.dir");
+			} else if (name.endsWith(".sdr")) {
 				addItem(mobiList, name.substring(mobiFolder.length()), ".sdr");
-			} else if(f.isDirectory()) {
+			} else if (f.isDirectory()) {
 				mobiClean(f.getAbsolutePath());
 			} else {
-				if(name.endsWith(".txt") || name.endsWith(".azw") || name.endsWith(".epub")) {
+				if (name.endsWith(".txt") || name.endsWith(".azw")) {
 					System.out.println(name.substring(3));
 				}
 			}
 		}
 	}
-	
+
 	static String getEpubName(File file) {
 		String name = "";
 		BufferedReader reader = null;
 		try {
 			reader = new BufferedReader(new FileReader(file));
 			String line;
-			while((line = reader.readLine()) != null) {
-				if(line.startsWith("book_title=")) {
+			while ((line = reader.readLine()) != null) {
+				if (line.startsWith("book_title=")) {
 					name = line.substring(line.indexOf('=') + 1);
 				}
 			}
@@ -149,64 +162,66 @@ class Main {
 		}
 		return name;
 	}
-	
+
 	static void epubClean(String path) {
 		File folder = new File(path);
-		for(File f : folder.listFiles()) {
+		for (File f : folder.listFiles()) {
 			String name = f.getAbsolutePath();
-			if(name.endsWith(".info")) {
+			if (name.endsWith(".info")) {
 				String key = addItem(epubList, name.substring(epubFolder.length()), ".info");
 				epubNameList.put(key, getEpubName(f));
-			} else if(name.endsWith(".epub")) {
+			} else if (name.endsWith(".epub")) {
 				String key = addItem(epubList, name.substring(epubFolder.length()), ".epub");
 				epubSizeList.put(key, f.length());
-			} else if(name.endsWith(".epub.dir")) {
+			} else if (name.endsWith(".epub.dir")) {
 				addItem(epubList, name.substring(epubFolder.length()), ".epub.dir");
 			} else {
 				System.out.println(name);
 			}
 		}
 	}
-	
+
 	static void processEpub() {
 		epubClean(epubFolder);
-		
+
 		System.out.println();
-		
-		for(Entry<String, Vector<String>> entry : epubList.entrySet()) {
+
+		for (Entry<String, Vector<String>> entry : epubList.entrySet()) {
 			String book = entry.getKey();
 			Vector<String> v = entry.getValue();
-			if(v.size() < 3) {
-				if(v.contains(".epub.dir") && !v.contains(".epub")) {
+			if (v.size() < 3) {
+				if (v.contains(".epub.dir") && !v.contains(".epub")) {
 					System.out.println(book + ".epub.dir");
-					if(DELETE_FILE) {
+					if (DELETE_FILE) {
 						delete(new File(epubFolder + book + ".epub.dir"));
 					}
 				}
-				if(v.contains(".info") && !v.contains(".epub")) {
+				if (v.contains(".info") && !v.contains(".epub")) {
 					System.out.println(book + ".info");
-					if(DELETE_FILE) {
+					if (DELETE_FILE) {
 						delete(new File(epubFolder + book + ".info"));
 					}
 				}
 			}
 		}
-		
-		ArrayList<HashMap.Entry<String, Long>> list = new ArrayList<HashMap.Entry<String, Long>>(epubSizeList.entrySet());
+
+		ArrayList<HashMap.Entry<String, Long>> list = new ArrayList<HashMap.Entry<String, Long>>(
+				epubSizeList.entrySet());
 		Collections.sort(list, new Comparator<HashMap.Entry<String, Long>>() {
 
 			@Override
 			public int compare(HashMap.Entry<String, Long> o1, HashMap.Entry<String, Long> o2) {
-				if(o1.getValue() < o2.getValue()) {
+				if (o1.getValue() < o2.getValue()) {
 					return 1;
 				} else {
 					return -1;
 				}
 			}
 		});
-		for(HashMap.Entry<String, Long> entry : list) {
+		for (HashMap.Entry<String, Long> entry : list) {
 			String name = epubNameList.get(entry.getKey());
-			System.out.println(entry.getKey() + ".epub [" + name + "] -> " + String.format("%.2f", entry.getValue() / 1024.0f / 1024.0f) + "MB");
+			System.out.println(entry.getKey() + ".epub [" + name + "] -> "
+					+ String.format("%.2f", entry.getValue() / 1024.0f / 1024.0f) + "MB");
 		}
 	}
 }
