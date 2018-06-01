@@ -1,4 +1,4 @@
-Free Space: 30.20MB
+Free Space: 24.95MB
 
 documents\Kindle_Users_Guide.azw
 documents\dictionaries\Oxford_Dictionary_of_English.azw
@@ -9,7 +9,6 @@ mobi\历史人文\圣经.mobi -> 9.86MB
 mobi\外文\斯蒂芬金经典系列.mobi -> 9.08MB
 Novels\J. R. R. Tolkien\The Lord of the Rings - J. R. R. Tolkien.mobi -> 8.41MB
 mobi\银河英雄传说.mobi -> 6.97MB
-DnD\PathfinderPRDv4.epub -> 6.40MB
 mobi\外文\追忆似水年华.mobi -> 6.26MB
 M\08.耳语者：斯大林时代苏联的私人生活.epub -> 6.21MB
 尼尔盖曼作品集.mobi -> 6.04MB
@@ -130,7 +129,6 @@ mobi\外文\海边的卡夫卡.mobi -> 0.93MB
 Novels\J. K. Rowling\Harry Potter and the Deathly Hallows - J. K. Rowling.mobi -> 0.92MB
 mobi\历史人文\最后的贵族.mobi -> 0.90MB
 mobi\历史人文\日本史.mobi -> 0.87MB
-mobi\苏菲的世界.mobi -> 0.87MB
 mobi\外文\巴黎圣母院.mobi -> 0.86MB
 Novels\J. K. Rowling\Harry Potter and the Half-Blood Prince - J. K. Rowling.mobi -> 0.81MB
 mobi\经济生活\我不是教你诈.mobi -> 0.80MB
@@ -157,7 +155,6 @@ mobi\经济生活\禅者的初心.mobi -> 0.57MB
 M\06.事实即颠覆：无以名之的十年的政治写作.epub -> 0.57MB
 mobi\外文\城堡.mobi -> 0.57MB
 Novels\J. K. Rowling\Harry Potter and the Chamber of Secrets - J. K. Rowling.mobi -> 0.57MB
-mobi\外文\西线无战事.mobi -> 0.57MB
 mobi\中文\球状闪电.mobi -> 0.56MB
 拖延心理学.mobi -> 0.54MB
 mobi\科学技术\可怕的对称.mobi -> 0.53MB
@@ -327,6 +324,7 @@ f3c95922c7d44ad890a7976952e2ae77.epub [第三种黑猩猩（贾雷德·戴蒙德
 32232a9f06294f5297e60b8ddadb14eb.epub [陈舜臣十八史略（共五册）] -> 6.15MB
 77100d127ad840a4a7cae02c8ef252e1.epub [史上最强日本史（全三册）] -> 6.10MB
 550de578bbfb45c09e1abae0045673b3.epub [英语人名词语趣谈] -> 6.03MB
+0eab9d21e292498ebdd7d6592415d7cd.epub [量子之谜（新版 第一推动丛书·物理系列）] -> 6.02MB
 9ecdec96fb874cfc9ca4f620fac742c9.epub [盗墓笔记（全集）] -> 5.88MB
 0c37f1fdeef7491fa9e6a982ae6a04e0.epub [音乐符号] -> 5.88MB
 1d05cf1d10fd475abcf8c0a617691734.epub [史迈利三部曲（全三册）] -> 5.86MB
@@ -340,6 +338,7 @@ af1a3a249aab4c4283d60f2347980851.epub [拥抱逝水年华（阿兰·德波顿文
 c0d51c1885ac43d58ebe1fb8fad12884.epub [追风筝的人系列（全三册）] -> 5.57MB
 c4af23893f8847b9b1f8fe66a9295db9.epub [童话大王讲经典系列（西游记｜三国演义｜红楼梦｜水浒传 全四册）] -> 5.55MB
 6f2491e8e9154b8f9ff1c208dc97d0a2.epub [光明王系列（全二册）] -> 5.48MB
+be5e4faafedd42568b0ace2ed47b18ab.epub [周汝昌校订批点本石头记（全二册）] -> 5.42MB
 62f392fe315b47cf8fc5388e1fd64e31.epub [茶事遍路] -> 5.39MB
 9891cafae8174350890212f19e35f584.epub [肯·福莱特经典：永恒的边缘（共3册）] -> 5.38MB
 1a6098ea321911e28a9300163e0123ac.epub [中国哲学简史] -> 5.34MB
@@ -351,7 +350,6 @@ cfd1caf01ee640359bf6a0cc624ff6c3.epub [教育经典：卡尔·威特的教育全
 d7352449f2b74af689d3e1577ab7ec44.epub [人类群星闪耀时（译林名著精选）] -> 5.02MB
 44af0ce82c204e348652c83ef54be4ae.epub [魔戒 1：魔戒同盟] -> 4.85MB
 250ea7924e9049ffa7c39d19c1da0d45.epub [中国人的修养（中国长安出版社）] -> 4.83MB
-0eab9d21e292498ebdd7d6592415d7cd.epub [量子之谜：物理学遇到意识] -> 4.83MB
 a044031d554246a8838a7cb3f36ff2e0.epub [沙丘] -> 4.82MB
 d21ad48e82304c2c9012f0635db86f8f.epub [魔戒 2：双塔殊途] -> 4.79MB
 ee793a5007554c05bc9fb1fd2a119813.epub [销售圣经（白金修订版）] -> 4.71MB
@@ -398,6 +396,7 @@ e70ca91e15d4417b9faf6f14f624c4b6.epub [解忧杂货店] -> 3.53MB
 0c69cb1f0605472599f69247918fe14e.epub [风沙星辰] -> 3.33MB
 f72fc654e60e4f8898cc2020a2d93811.epub [新课标必读丛书：格林童话] -> 3.25MB
 63a0435068c649f18ba68975a89e13a6.epub [中国现代文学史（第三版）] -> 3.23MB
+d7ddfbf5668d4c4a840afc44dd120ae3.epub [克苏鲁神话 II] -> 3.18MB
 b4f020928e77465490e2ada0274cba67.epub [水浒传] -> 3.15MB
 d8aa278b453f4f4fb48dacbac50137f8.epub [红楼梦] -> 3.14MB
 5b08096733f94a1f9385eabeaed12d03.epub [拖延心理学：向与生俱来的行为顽症宣战] -> 3.10MB
@@ -461,7 +460,6 @@ edda1baa6a58441caf8c9dd2cf5b60c9.epub [纯粹理性批判] -> 2.00MB
 2169202bb69d4618bd251e5abd6d1dcd.epub [献给阿尔吉侬的花束（世界顶级科幻大师杰作选）] -> 1.83MB
 2d7a2573ac7145019c3f1155b8a47b96.epub [西方哲学简史] -> 1.81MB
 a0d3b7925d754339a08898b116efd59a.epub [钱商] -> 1.81MB
-d1c7bf12ed0a11e19e0a00163e0123ac.epub [我们台湾这些年] -> 1.80MB
 00ad1784e181405ba9aa5db1d86ef9fd.epub [简·爱] -> 1.79MB
 f34604ac7cbe11e28d3100163e0123ac.epub [玩火的女孩] -> 1.79MB
 bc04a1f2251e44ba941d7579d4217d47.epub [莎士比亚故事集] -> 1.78MB
@@ -476,6 +474,7 @@ b29609161d624cc996f0e6288dc8d905.epub [一头想要被吃掉的猪] -> 1.70MB
 da8b60ed8fae46aa90ec8ffacc139a7f.epub [人性的优点（汉英对照）] -> 1.69MB
 f449db2e833d454d9476033720869198.epub [不疯魔，不哲学] -> 1.68MB
 9633d518038c48449de8787a7ca55d72.epub [罗马神话（经典译林）] -> 1.67MB
+d1c7bf12ed0a11e19e0a00163e0123ac.epub [我们台湾这些年 Ⅰ] -> 1.65MB
 8c5ec147c9c946e7b77d7f48f72f4290.epub [新课标必读丛书：名人传] -> 1.62MB
 78f800ed94464887b4bbd793d2676158.epub [美丽英文：那一年，我们一起毕业] -> 1.61MB
 70a09b8d0f9244b8b634b99a51802e48.epub [人性的弱点（无删改全译本）] -> 1.60MB
@@ -486,7 +485,9 @@ f449db2e833d454d9476033720869198.epub [不疯魔，不哲学] -> 1.68MB
 cef9e3c0a60c4de6b56428b710343a40.epub [如何阅读一本书] -> 1.55MB
 10ba9af32585411bb6dffd41bc4b72cf.epub [最好的告别：关于衰老与死亡，你必须知道的常识] -> 1.54MB
 2a7ad417f5d547bab10f8286c68548fe.epub [当下的力量] -> 1.52MB
+1c5b5425e46c4f0ab4849c2bbfd69856.epub [西线无战事（雷马克作品系列）] -> 1.50MB
 76ea7c0b24bc47779f9f9911822fb91c.epub [医生的精进：从仁心仁术到追求卓越] -> 1.47MB
+ef171d43c5e044d6b4cb63076338d767.epub [我们台湾这些年 Ⅱ] -> 1.46MB
 81593db9d5454adfacf035673db725b9.epub [医生的修炼：在不完美中探索行医的真相] -> 1.42MB
 d3bc513184da49fbbf24d99b8b4fc9fd.epub [林语堂文集：人生不过如此] -> 1.41MB
 ef54a06d0f284c3bb9952479cb811d97.epub [美丽英文：那些改变未来的身影] -> 1.41MB
@@ -513,7 +514,6 @@ f42fe30a245645a3b5cb8725dfeba0b1.epub [当呼吸化为空气] -> 1.19MB
 3018ee94825011e2991800163e0123ac.epub [安静：内向性格的竞争力] -> 1.17MB
 d778f38a824d11e2991800163e0123ac.epub [常识] -> 1.16MB
 cf75788beb5d4af38652531b99f38bed.epub [斯通纳] -> 1.16MB
-ef171d43c5e044d6b4cb63076338d767.epub [我们台湾这些年 2] -> 1.12MB
 d27f229566ed4256ac3791bc3c6b30aa.epub [疾病的隐喻（中英双语版桑塔格文集）] -> 1.12MB
 832f461f965b48df9af4c972ded958fe.epub [美丽英文：一个人，也能有好时光] -> 1.09MB
 7998e0472c144fe9828a552ee0a1ce3c.epub [娱乐至死] -> 1.07MB
@@ -545,7 +545,7 @@ b2c54ead18af4de8bdf83b6f9f0a1f91.epub [美丽英文：别处的风景] -> 0.67MB
 9790df55836c433b9da4d233cf7e5c26.epub [人间词话] -> 0.63MB
 9d2ea063c46847eab30319b8bd2a36a3.epub [这书能让你戒烟] -> 0.62MB
 34480af5c25a4830835fce04818d6e65.epub [美丽英文：成长是不可替代的事] -> 0.62MB
-e97ea5a74fc44b22b048f3fa9c000543.epub [动物农场（译文经典）] -> 0.58MB
+e97ea5a74fc44b22b048f3fa9c000543.epub [动物农场（译文40）] -> 0.50MB
 2e4fc6303a2b4c10bf8765caae09add8.epub [美丽英文：童年是孤单的冒险] -> 0.42MB
 9fe5cf1af26a11e1b0a700163e0123ac.epub [老人与海] -> 0.42MB
 fa8ca30bf01b43bfbf4a97691ba3fd57.epub [查令十字街84号（珍藏版）] -> 0.41MB
