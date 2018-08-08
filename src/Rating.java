@@ -102,7 +102,8 @@ public class Rating {
 		Vector<Book> list = getList();
 		for (Book book : list) {
 			String content = readUrl("https://www.douban.com/search?cat=1001&q="
-					+ book.title.replaceAll("（.*）", "").replace("多看文库·", "").replaceAll(" ", "+"));
+					+ book.title.replaceAll("（.*）", "").replace("多看文库·", "").replaceAll(" ", "+")
+							.replace("霍金经典三部曲", "时间简史").replace("安·兰德作品集", "阿特拉斯耸耸肩").replace("斯蒂芬金经典系列", "肖申克的救赎"));
 			Pattern p = Pattern.compile("<span>\\[.*>(.*?) </a>");
 			Matcher m = p.matcher(content);
 			if (m.find()) {
