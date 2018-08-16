@@ -1,4 +1,4 @@
-Free Space: 16.48MB
+Free Space: 26.23MB
 
 documents\Kindle_Users_Guide.azw
 documents\dictionaries\Oxford_Dictionary_of_English.azw
@@ -14,6 +14,7 @@ mobi\外文\追忆似水年华.mobi -> 6.26MB
 M\08.耳语者：斯大林时代苏联的私人生活.epub -> 6.21MB
 尼尔盖曼作品集.mobi -> 6.04MB
 从惊讶到思考.mobi -> 5.77MB
+M\27.教宗与墨索里尼：庇护十一世与法西斯崛起.epub -> 5.36MB
 mobi\历史人文\美国种族简史.mobi -> 5.10MB
 mobi\外文\莎士比亚全集.mobi -> 4.96MB
 mobi\中文\韩寒作品集.mobi -> 4.94MB
@@ -25,6 +26,7 @@ M\20.奥斯曼帝国的衰亡：一战中东，1914—1920.epub -> 4.41MB
 古拉格群岛.mobi -> 4.39MB
 mobi\外文\小王子.mobi -> 4.36MB
 M\15.古拉格之恋：一个爱情与求生的真实故事.epub -> 4.17MB
+M\28.明治天皇：1852-1912.epub -> 4.09MB
 物理世界奇遇记.mobi -> 4.07MB
 金庸\侠客行（上）.mobi -> 3.97MB
 金庸\连城诀.mobi -> 3.72MB
@@ -233,7 +235,6 @@ d3c4f0d21705464e931bd34f38e29196.epub [龙枪编年史（全三册）] -> 22.97M
 bbdc935fac604dacbd0255bacac55896.epub [美国文明史] -> 22.85MB
 6d5c869cc01542729c6521739743265b.epub [枪炮、病菌与钢铁（修订版）] -> 21.54MB
 bc5edcdcca4945d2a051524188b9d82a.epub [白鹿原] -> 20.92MB
-dbbeaa017b7d41ae8d0ee74f7bd764bf.epub [教宗与墨索里尼：庇护十一世与法西斯崛起秘史] -> 20.68MB
 5c1bd3b5b26b4dec8e01feb9b054a488.epub [走进费曼丛书（共6册）] -> 19.54MB
 cf7febcc82db4a22897ca56d9b314285.epub [海伯利安四部曲] -> 19.22MB
 f35202dc1cb44d2eaba96e12aca64bab.epub [KK三部曲（失控+科技想要什么+必然）] -> 19.07MB
@@ -482,6 +483,7 @@ d3bc513184da49fbbf24d99b8b4fc9fd.epub [林语堂文集：人生不过如此] -> 
 ef54a06d0f284c3bb9952479cb811d97.epub [美丽英文：那些改变未来的身影] -> 1.41MB
 d852c122b20111e1b8ef00163e0060da.epub [悟空传] -> 1.40MB
 5648c45335fd4515bf91fa93684edd03.epub [请你安静些，好吗？] -> 1.39MB
+a97facd1fcc2461dbc7b07b71e421262.epub [未来世界的幸存者] -> 1.37MB
 da7f5c392b5749e0b2e0149bf836cf1b.epub [哈利·波特与被诅咒的孩子（第一部和第二部）] -> 1.34MB
 6ee9131cc5e049b7a9bdf2fc91a6f9b5.epub [安徒生童话] -> 1.32MB
 5be3d321203f4750930ae44fdc4e879b.epub [战争论] -> 1.32MB
