@@ -128,7 +128,10 @@ public class Rating {
 			@Override
 			public int compare(Book o1, Book o2) {
 				if (o1.rating == o2.rating) {
-					return 0;
+					if (o1.rates == o2.rates) {
+						return 0;
+					}
+					return o1.rates > o2.rates ? -1 : 1;
 				}
 				return o1.rating > o2.rating ? -1 : 1;
 			}
