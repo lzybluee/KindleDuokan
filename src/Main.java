@@ -13,6 +13,7 @@ import java.util.Vector;
 class Main {
 
 	static boolean DELETE_FILE = true;
+	static boolean CHECK_DUPLICATE = false;
 
 	static String mobiFolder;
 	static HashMap<String, Vector<String>> mobiList = new HashMap<String, Vector<String>>();
@@ -23,6 +24,8 @@ class Main {
 	static HashMap<String, Long> epubSizeList = new HashMap<String, Long>();
 	static HashMap<String, String> epubNameList = new HashMap<String, String>();
 
+	static Vector<String> bookNames = new Vector<>();
+	
 	public static void main(String[] args) {
 		File[] drivers = File.listRoots();
 		for (File d : drivers) {
@@ -42,6 +45,21 @@ class Main {
 		processEpub();
 	}
 
+	static void addBookName(String name) {
+		if(!CHECK_DUPLICATE) {
+			return;
+		}
+		if(name.contains("\\")) {
+			name = name.substring(name.lastIndexOf("\\") + 1);
+		}
+		for(String s : bookNames) {
+			if(s.contains(name) || name.contains(s)) {
+				System.err.println("Duplicate Book : " + name + " --- " + s);
+			}
+		}
+		bookNames.add(name);
+	}
+	
 	static void delete(File file) {
 		if (file.isDirectory()) {
 			for (File f : file.listFiles()) {
@@ -123,11 +141,13 @@ class Main {
 			String name = f.getAbsolutePath();
 			if (name.endsWith(".mobi")) {
 				String key = addItem(mobiList, name.substring(mobiFolder.length()), ".mobi");
+				addBookName(key);
 				mobiSizeList.put(key + ".mobi", f.length());
 			} else if (name.endsWith(".mobi.dir")) {
 				addItem(mobiList, name.substring(mobiFolder.length()), ".mobi.dir");
 			} else if (name.endsWith(".epub")) {
 				String key = addItem(mobiList, name.substring(mobiFolder.length()), ".epub");
+				addBookName(key);
 				mobiSizeList.put(key + ".epub", f.length());
 			} else if (name.endsWith(".epub.dir")) {
 				addItem(mobiList, name.substring(mobiFolder.length()), ".epub.dir");
@@ -160,6 +180,7 @@ class Main {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		addBookName(name);
 		return name;
 	}
 
