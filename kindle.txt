@@ -1,4 +1,4 @@
-Free Space: 49.63MB
+Free Space: 35.76MB
 
 documents\dictionaries\Oxford_Dictionary_of_English.azw
 documents\dictionaries\The_New_Oxford_American_Dictionary.azw
@@ -150,6 +150,7 @@ ad2df9b0fda94ccf88eb8e2977eca286.epub [王小波全集（全十卷）] -> 45.74M
 eb30aac8a5da44bfb5384e590ab03040.epub [明朝那些事儿（全七册）] -> 45.50MB
 51973443e28e406996abe6f164df10fc.epub [大秦帝国（全新修订进阶版 全18册）] -> 42.22MB
 d5927a9bae654c2da2111dedfb58ca9f.epub [精灵宝钻] -> 39.81MB
+7ce76f643d1511e2873800163e0123ac.epub [激荡三十年（全二册 十年典藏版）] -> 30.46MB
 a0ed79d882204ae99bc98958e023fce9.epub [多看文库·唐诗三百首] -> 30.41MB
 49dd834415ae42c8b1d7f0bfa6add7ef.epub [多看文库·宋词三百首] -> 30.00MB
 762669052e194ff9a70fa057158fb4a8.epub [地球上最伟大的表演：进化的证据] -> 28.38MB
@@ -202,7 +203,6 @@ dbdfbfecc0f84442ba24c85eea843d48.epub [图灵的秘密] -> 10.48MB
 6ecf6fd2e56f4bb48ea5bc6d325b5d6c.epub [拆掉思维里的墙] -> 9.82MB
 f23b0dd3d99745bfbbd74f8eeb44d690.epub [星空的琴弦：天文学史话] -> 9.53MB
 6fef75df4d4143a6b572716fc94e6c0b.epub [史蒂夫·乔布斯传（修订版）] -> 9.11MB
-0702c1c29b2b4d63adc996bb906f3363.epub [多看文库·封神演义] -> 9.04MB
 438e00f246c745418494e8ab7a6f933b.epub [人类简史：从动物到上帝] -> 9.00MB
 a03c08aa321e11e28a9300163e0123ac.epub [民主的模式（最新修订版）] -> 8.69MB
 9e9a99a4feba45d2a1901754700934b2.epub [批判性思维（原书第10版）] -> 8.67MB
@@ -216,7 +216,6 @@ ef87d77bdc3a4530a014478e775bdb69.epub [安德的游戏三部曲（全三册）] 
 75b83216dbed11e192a600163e0123ac.epub [鲁迅全集] -> 7.70MB
 9f2bbd2cea9440abb90bebe2d45b5c25.epub [弯曲的旅行] -> 7.67MB
 4905fa0be803415abecaff959e3604a6.epub [鬼吹灯（全集）] -> 7.60MB
-f75e37cd486147598cd25e84b4129b7d.epub [病毒来袭] -> 7.50MB
 88892de5b0d64e3d9d7a961d9f49e766.epub [魔戒 3：王者归来] -> 7.48MB
 d352d2da761e4940abb9f3ac2e748587.epub [黑骏马（马爱农译版）] -> 7.38MB
 9f80dd8fc0894e36ae9f716c765e23da.epub [浴缸里的惊叹：256道让你恍然大悟的趣题] -> 7.38MB
