@@ -1,4 +1,4 @@
-Free Space: 58.41MB
+Free Space: 57.89MB
 
 documents\dictionaries\Oxford_Dictionary_of_English.azw
 documents\dictionaries\The_New_Oxford_American_Dictionary.azw
@@ -117,6 +117,7 @@ mobi\外文\在路上.mobi -> 0.45MB
 mobi\历史人文\新世界.mobi -> 0.45MB
 mobi\中文\西游日记.mobi -> 0.44MB
 mobi\历史人文\中国建筑史.mobi -> 0.44MB
+mobi\中文\撒哈拉的故事.mobi -> 0.41MB
 mobi\外文\时间旅行者的妻子.mobi -> 0.40MB
 M\12.罪孽的报应：德国和日本的战争记忆.epub -> 0.40MB
 mobi\经济生活\富爸爸穷爸爸.mobi -> 0.38MB
