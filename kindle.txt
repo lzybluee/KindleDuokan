@@ -1,4 +1,4 @@
-Free Space: 57.89MB
+Free Space: 42.16MB
 
 documents\dictionaries\Oxford_Dictionary_of_English.azw
 documents\dictionaries\The_New_Oxford_American_Dictionary.azw
@@ -8,6 +8,7 @@ documents\dictionaries\The_New_Oxford_American_Dictionary.azw
 中华经典藏书下部.epub -> 11.76MB
 mobi\历史人文\圣经.mobi -> 9.86MB
 mobi\外文\斯蒂芬金经典系列.mobi -> 9.08MB
+mobi\历史人文\海洋帝国.mobi -> 8.71MB
 Novels\J. R. R. Tolkien\The Lord of the Rings - J. R. R. Tolkien.mobi -> 8.41MB
 进化心理学.mobi -> 7.86MB
 mobi\银河英雄传说.mobi -> 6.97MB
@@ -24,6 +25,7 @@ mobi\历史人文\中国近代史 上册.mobi -> 4.51MB
 M\20.奥斯曼帝国的衰亡：一战中东，1914—1920.epub -> 4.41MB
 古拉格群岛.mobi -> 4.39MB
 mobi\外文\小王子.mobi -> 4.36MB
+mobi\外文\是，大臣.mobi -> 4.26MB
 M\15.古拉格之恋：一个爱情与求生的真实故事.epub -> 4.17MB
 M\28.明治天皇：1852-1912.epub -> 4.09MB
 物理世界奇遇记.mobi -> 4.07MB
@@ -56,6 +58,7 @@ M\09.零年：1945现代世界诞生的时刻.epub -> 1.94MB
 M\17.奥斯维辛：一部历史.epub -> 1.94MB
 M\04.历史的终结与最后的人 .epub -> 1.89MB
 M\02.漫漫自由路：曼德拉自传.epub -> 1.89MB
+mobi\外文\是，首相.mobi -> 1.86MB
 mobi\历史人文\荷马史诗 伊利亚特.mobi -> 1.78MB
 M\19.我们的后人类未来：生物科技革命的后果.epub -> 1.77MB
 mobi\历史人文\世界电影史.mobi -> 1.67MB
@@ -71,6 +74,7 @@ mobi\历史人文\我的前半生.mobi -> 1.28MB
 mobi\科学技术\猜想与反驳.mobi -> 1.27MB
 mobi\历史人文\历史的天空.mobi -> 1.26MB
 M\07.苏联的最后一天：莫斯科.epub -> 1.26MB
+mobi\历史人文\独裁者手册.mobi -> 1.23MB
 Novels\J. K. Rowling\Harry Potter and the Order of the Phoenix - J. K. Rowling.mobi -> 1.22MB
 mobi\科学技术\物种起源.mobi -> 1.15MB
 mobi\外文\生命中不能承受之轻.mobi -> 1.12MB
@@ -112,7 +116,6 @@ mobi\中文\球状闪电.mobi -> 0.56MB
 mobi\科学技术\可怕的对称.mobi -> 0.53MB
 mobi\历史人文\历史深处的忧虑.mobi -> 0.52MB
 mobi\外文\月亮和六便士.mobi -> 0.47MB
-mobi\外文\神经浪游者.mobi -> 0.46MB
 mobi\外文\在路上.mobi -> 0.45MB
 mobi\历史人文\新世界.mobi -> 0.45MB
 mobi\中文\西游日记.mobi -> 0.44MB
