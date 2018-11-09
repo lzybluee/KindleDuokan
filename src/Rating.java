@@ -67,32 +67,30 @@ public class Rating {
 
 	static String readUrl(String http) throws Exception {
 		String content = "";
-		try {
-			URL url = new URL(http);
-			URLConnection URLconnection = url.openConnection();
-			URLconnection.setRequestProperty("User-Agent", "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt)");
-			URLconnection.setConnectTimeout(60000);
-			URLconnection.setReadTimeout(60000);
-			HttpURLConnection httpConnection = (HttpURLConnection) URLconnection;
-			int responseCode = httpConnection.getResponseCode();
-			if (responseCode == HttpURLConnection.HTTP_OK) {
-				InputStream in = httpConnection.getInputStream();
-				InputStreamReader isr = new InputStreamReader(in);
-				BufferedReader bufr = new BufferedReader(isr);
-				String str;
-				while ((str = bufr.readLine()) != null) {
-					content += str + "\n";
+		int retry = 0;
+		while(retry < 3) {
+			try {
+				URL url = new URL(http);
+				URLConnection URLconnection = url.openConnection();
+				URLconnection.setRequestProperty("User-Agent", "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt)");
+				URLconnection.setConnectTimeout(60000);
+				URLconnection.setReadTimeout(60000);
+				HttpURLConnection httpConnection = (HttpURLConnection) URLconnection;
+				int responseCode = httpConnection.getResponseCode();
+				if (responseCode == HttpURLConnection.HTTP_OK) {
+					InputStream in = httpConnection.getInputStream();
+					InputStreamReader isr = new InputStreamReader(in);
+					BufferedReader bufr = new BufferedReader(isr);
+					String str;
+					while ((str = bufr.readLine()) != null) {
+						content += str + "\n";
+					}
+					bufr.close();
+					break;
 				}
-				bufr.close();
-			} else if (responseCode == HttpURLConnection.HTTP_NOT_FOUND) {
-				return "";
-			} else if (responseCode == HttpURLConnection.HTTP_UNAVAILABLE) {
-				return null;
-			} else {
-				System.out.println("Error " + responseCode + " : " + url);
+			} catch (Exception e) {
 			}
-		} catch (Exception e) {
-			return null;
+			retry++;
 		}
 		return content;
 
