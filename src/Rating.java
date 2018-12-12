@@ -68,11 +68,12 @@ public class Rating {
 	static String readUrl(String http) throws Exception {
 		String content = "";
 		int retry = 0;
-		while(retry < 3) {
+		while (retry < 3) {
 			try {
 				URL url = new URL(http);
 				URLConnection URLconnection = url.openConnection();
-				URLconnection.setRequestProperty("User-Agent", "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt)");
+				URLconnection.setRequestProperty("User-Agent",
+						"Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt)");
 				URLconnection.setConnectTimeout(60000);
 				URLconnection.setReadTimeout(60000);
 				HttpURLConnection httpConnection = (HttpURLConnection) URLconnection;
@@ -99,9 +100,10 @@ public class Rating {
 	public static void main(String[] args) throws Exception {
 		Vector<Book> list = getList();
 		for (Book book : list) {
-			String content = readUrl("https://www.douban.com/search?cat=1001&q=" + book.title.replaceAll("（.*）", "")
-					.replace("多看文库·", "").replaceAll(" ", "+").replace("霍金经典三部曲", "时间简史").replace("安·兰德作品集", "阿特拉斯耸耸肩")
-					.replace("斯蒂芬金经典系列", "肖申克的救赎").replace("道金斯科学经典系列", "自私的基因").replace("世界文学名著", "安娜·卡列尼娜"));
+			String content = readUrl("https://www.douban.com/search?cat=1001&q="
+					+ book.title.replaceAll("（.*）", "").replace("多看文库·", "").replaceAll(" ", "+")
+							.replace("霍金经典三部曲", "时间简史").replace("安·兰德作品集", "阿特拉斯耸耸肩").replace("斯蒂芬金经典系列", "肖申克的救赎")
+							.replace("道金斯科学经典系列", "自私的基因").replace("世界文学名著", "安娜·卡列尼娜").replace("何伟三部曲", "寻路中国"));
 			Pattern p = Pattern.compile("<span>\\[.*>(.*?) </a>");
 			Matcher m = p.matcher(content);
 			if (m.find()) {

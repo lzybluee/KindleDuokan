@@ -1,4 +1,4 @@
-Free Space: 19.39MB
+Free Space: 17.46MB
 
 documents\dictionaries\Oxford_Dictionary_of_English.azw
 documents\dictionaries\The_New_Oxford_American_Dictionary.azw
@@ -69,6 +69,7 @@ Oracle\伯罗奔尼撒战争史.epub -> 2.26MB
 mobi\外文\1Q84.mobi -> 2.19MB
 mobi\外文\村上春树合集.mobi -> 2.10MB
 Oracle\世界的演变：19世纪史.epub -> 2.08MB
+DnD\SRD.epub -> 2.07MB
 English\Merriam-Webster's Guide to Punctuation and Style.mobi -> 2.06MB
 Oracle\耶路撒冷三千年.epub -> 2.06MB
 mobi\丹布朗作品集.mobi -> 1.99MB
@@ -144,7 +145,6 @@ mobi\外文\城堡.mobi -> 0.57MB
 Novels\J. K. Rowling\Harry Potter and the Chamber of Secrets - J. K. Rowling.mobi -> 0.57MB
 mobi\中文\球状闪电.mobi -> 0.56MB
 mobi\科学技术\可怕的对称.mobi -> 0.53MB
-mobi\历史人文\历史深处的忧虑.mobi -> 0.52MB
 mobi\外文\月亮和六便士.mobi -> 0.47MB
 mobi\外文\在路上.mobi -> 0.45MB
 mobi\历史人文\新世界.mobi -> 0.45MB
