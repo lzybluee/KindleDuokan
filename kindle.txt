@@ -1,4 +1,4 @@
-Free Space: 21.19MB
+Free Space: 14.34MB
 
 documents\dictionaries\Oxford_Dictionary_of_English.azw
 documents\dictionaries\The_New_Oxford_American_Dictionary.azw
@@ -88,6 +88,7 @@ M\26.日本之镜：日本文化中的英雄与恶人.epub -> 1.66MB
 M\29.八月炮火.epub -> 1.63MB
 mobi\中文\七种武器.mobi -> 1.60MB
 M\21.国家构建：21世纪的国家治理与世界秩序.epub -> 1.59MB
+基因传.mobi -> 1.57MB
 甲骨文.mobi -> 1.54MB
 Oracle\阿拉伯的劳伦斯：战争、谎言、帝国愚行与现代中东的形成.epub -> 1.53MB
 mobi\历史人文\论美国的民主.mobi -> 1.51MB
@@ -145,10 +146,10 @@ mobi\外文\城堡.mobi -> 0.57MB
 Novels\J. K. Rowling\Harry Potter and the Chamber of Secrets - J. K. Rowling.mobi -> 0.57MB
 mobi\中文\球状闪电.mobi -> 0.56MB
 mobi\科学技术\可怕的对称.mobi -> 0.53MB
+M\33.拉丁美洲被切开的血管.epub -> 0.50MB
 mobi\外文\月亮和六便士.mobi -> 0.47MB
 mobi\外文\在路上.mobi -> 0.45MB
 mobi\历史人文\新世界.mobi -> 0.45MB
-M\33.拉丁美洲被切开的血管.epub -> 0.44MB
 mobi\中文\西游日记.mobi -> 0.44MB
 mobi\历史人文\中国建筑史.mobi -> 0.44MB
 mobi\外文\时间旅行者的妻子.mobi -> 0.40MB
@@ -202,23 +203,23 @@ bc5edcdcca4945d2a051524188b9d82a.epub [白鹿原] -> 20.92MB
 5c1bd3b5b26b4dec8e01feb9b054a488.epub [走进费曼丛书（共6册）] -> 19.54MB
 6b82665782054ea78c13b2bf5db9855f.epub [阿瑟·克拉克至高科幻经典（套装共5册）] -> 19.32MB
 cf7febcc82db4a22897ca56d9b314285.epub [海伯利安四部曲] -> 19.22MB
-f35202dc1cb44d2eaba96e12aca64bab.epub [KK三部曲（失控+科技想要什么+必然）] -> 19.07MB
+f35202dc1cb44d2eaba96e12aca64bab.epub [KK三部曲（失控|科技想要什么|必然）] -> 19.07MB
 2943f34b54af4a56a102dabf630278f7.epub [努门诺尔与中洲之未完的传说] -> 18.88MB
 65fd88f244184b26a5e074340d32f9a1.epub [纳尼亚传奇（全三册）] -> 18.76MB
 b0efa70f481048aca5fafba2c1287053.epub [道金斯科学经典系列（自私的基因|盲眼钟表匠|魔鬼的牧师 共三册）] -> 18.49MB
+5b6239e884a1471c9680cc2e7bdfafbd.epub [中世纪三部曲（全9册）] -> 18.45MB
 7baa6850320111e28a9300163e0123ac.epub [上帝掷骰子吗：量子物理史话] -> 17.95MB
 e9f14f9849fb4972a2287451d1aad98b.epub [你一定爱读的极简欧洲史（增订纪念版）] -> 17.52MB
 76118793a6f54f53bd8783a3df949941.epub [死灵之书] -> 17.16MB
 3d6311c639104dca977c49848407eb2e.epub [小岛经济学] -> 17.03MB
 b64829f41e6d11e2ad8a00163e0123ac.epub [三体（全三册）] -> 16.61MB
-d24894d1b70b42ad9b403a5c626d39eb.epub [银河帝国（1-7）：基地系列七部曲（被马斯克用火箭送上太空的神作）] -> 16.24MB
+d24894d1b70b42ad9b403a5c626d39eb.epub [银河帝国（1-7）：基地系列七部曲] -> 16.24MB
 c8ab2b65cf7e474ea239ea320c9a339a.epub [西方建筑小史] -> 15.96MB
-a5d62d723b6e40ffaeb16effe36e2fcb.epub [银河帝国（8-12）：机器人系列五部曲（被马斯克用火箭送上太空的神作）] -> 15.28MB
+a5d62d723b6e40ffaeb16effe36e2fcb.epub [银河帝国（8-12）：机器人系列五部曲] -> 15.28MB
 435a84905910482ab7563628f664ba65.epub [崩溃：社会如何选择成败兴亡] -> 14.62MB
 9f3d221a598f42fa826e2c42c3d9d020.epub [动荡的世界] -> 14.37MB
 27b697e55cc8480699ab39b601a6b283.epub [英伦魔法拾遗] -> 14.32MB
 34352c5419464a2f9dbf8dee93c53b3e.epub [美国侦探小说之王埃勒里·奎因悲剧系列（共四册）] -> 14.18MB
-5b6239e884a1471c9680cc2e7bdfafbd.epub [肯·福莱特中世纪三部曲之：《圣殿春秋》＋《无尽世界》] -> 13.84MB
 dddabd1451554b1d97631a3493ad2474.epub [阿瑟·黑利系列（共六册）] -> 13.50MB
 d08cd7eeaced4e1e8a08f997914e51f3.epub [微积分的历程：从牛顿到勒贝格] -> 13.11MB
 d06095bfed1f4444ab1e1ddb95c0627d.epub [中国通史（插图本）] -> 12.71MB
@@ -226,7 +227,7 @@ d06095bfed1f4444ab1e1ddb95c0627d.epub [中国通史（插图本）] -> 12.71MB
 2d95240516a74d8398bff689cf6aed29.epub [三行情书] -> 12.22MB
 fbcfbfb1634c46f68faa114300aa7d92.epub [通俗天文学：和大师一起与宇宙对话] -> 12.18MB
 4e559e7cea4c4a5b820c179a5c7a0f46.epub [霍比特人] -> 11.52MB
-a3162c4ed22949379494601da5ff0916.epub [银河帝国（13-15）：帝国系列三部曲（被马斯克用火箭送上太空的神作）] -> 11.52MB
+a3162c4ed22949379494601da5ff0916.epub [银河帝国（13-15）：帝国系列三部曲] -> 11.52MB
 19e0da7b36a14fc9975abfbb9d026a8d.epub [见识丛书·霍布斯鲍姆年代四部曲（共四册）] -> 11.12MB
 25215787c0574dab9e69a48fa8ea616b.epub [黑客与画家] -> 10.96MB
 e0e663cd17f647e9bc66355f755d5f58.epub [未来简史：从智人到智神] -> 10.76MB
@@ -266,8 +267,8 @@ f3c95922c7d44ad890a7976952e2ae77.epub [第三种黑猩猩（贾雷德·戴蒙德
 17b26db0f5ad4d47a0e4a09421df6189.epub [东方快车谋杀案（阿加莎·克里斯蒂作品）] -> 6.38MB
 60657a4de4704e0ab915c56e57c42658.epub [狄更斯讲英国史（全三册）] -> 6.20MB
 c7aa0ff20a1541028fa2926f5e2f3b8d.epub [原则] -> 5.92MB
-9ecdec96fb874cfc9ca4f620fac742c9.epub [盗墓笔记（全集）] -> 5.88MB
 0c37f1fdeef7491fa9e6a982ae6a04e0.epub [音乐符号] -> 5.88MB
+9ecdec96fb874cfc9ca4f620fac742c9.epub [盗墓笔记（全集）] -> 5.88MB
 1d05cf1d10fd475abcf8c0a617691734.epub [史迈利三部曲（全三册）] -> 5.86MB
 4f20ba6d49b24a43991d32ffee4cd86f.epub [百万英镑（经典译林）] -> 5.77MB
 eb8c44f19f754f03bf4cfbbfba2b7fd1.epub [时间的形状：相对论史话] -> 5.76MB
