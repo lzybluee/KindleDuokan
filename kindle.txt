@@ -1,4 +1,4 @@
-Free Space: 14.34MB
+Free Space: 17.21MB
 
 documents\dictionaries\Oxford_Dictionary_of_English.azw
 documents\dictionaries\The_New_Oxford_American_Dictionary.azw
@@ -88,7 +88,6 @@ M\26.日本之镜：日本文化中的英雄与恶人.epub -> 1.66MB
 M\29.八月炮火.epub -> 1.63MB
 mobi\中文\七种武器.mobi -> 1.60MB
 M\21.国家构建：21世纪的国家治理与世界秩序.epub -> 1.59MB
-基因传.mobi -> 1.57MB
 甲骨文.mobi -> 1.54MB
 Oracle\阿拉伯的劳伦斯：战争、谎言、帝国愚行与现代中东的形成.epub -> 1.53MB
 mobi\历史人文\论美国的民主.mobi -> 1.51MB
@@ -102,7 +101,6 @@ mobi\历史人文\历史的天空.mobi -> 1.26MB
 M\07.苏联的最后一天：莫斯科.epub -> 1.26MB
 mobi\历史人文\独裁者手册.mobi -> 1.23MB
 Novels\J. K. Rowling\Harry Potter and the Order of the Phoenix - J. K. Rowling.mobi -> 1.22MB
-mobi\科学技术\物种起源.mobi -> 1.15MB
 mobi\外文\生命中不能承受之轻.mobi -> 1.12MB
 今日简史：人类命运大议题.mobi -> 1.09MB
 mobi\外文\云图.mobi -> 1.07MB
