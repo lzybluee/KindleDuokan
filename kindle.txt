@@ -1,4 +1,4 @@
-Free Space: 33.49MB
+Free Space: 28.76MB
 
 documents\dictionaries\Oxford_Dictionary_of_English.azw
 documents\dictionaries\The_New_Oxford_American_Dictionary.azw
@@ -296,6 +296,7 @@ ee793a5007554c05bc9fb1fd2a119813.epub [销售圣经（白金修订版）] -> 4.7
 7c815485314f41efa8b3a2c1c5e76f77.epub [活学活用博弈论] -> 4.67MB
 a44597ce668545748cf3810d9c1211e1.epub [尤利西斯（经典译林）] -> 4.66MB
 ee01b4b635494352bcb6ad1985376d74.epub [赤裸裸的统计学] -> 4.66MB
+e6dfabb3e80d4d658b122be7c434b195.epub [克苏鲁神话 Ⅲ] -> 4.55MB
 9086a2d2f26111e18ad600163e0123ac.epub [飘（上）] -> 4.53MB
 ec72abf9725047d6b5694fcd7e823886.epub [肯·福莱特经典：巨人的陨落（共3册）] -> 4.49MB
 38143fe2711a4281964684f17323fa58.epub [经度：一个孤独的天才解决所处时代最大难题的真实故事] -> 4.47MB
@@ -352,8 +353,8 @@ f1eecd08b1fa11e1b8ef00163e0060da.epub [好妈妈胜过好老师] -> 2.67MB
 1485690a661f425ab78601b3fbe9e80d.epub [苹果酒屋的规则] -> 2.64MB
 16b0b56d04bb4fd6b40d8a0973227d22.epub [基因传] -> 2.64MB
 29ca2b410a234d548e61a90515093a42.epub [世界科幻小说简史：星空的旋律] -> 2.62MB
+e436a179a6114bf6b6a36af694613578.epub [众病之王：癌症传] -> 2.58MB
 4b31257a58e544e6865572d88a9faea3.epub [爱丽丝镜中奇遇记] -> 2.56MB
-e436a179a6114bf6b6a36af694613578.epub [众病之王：癌症传] -> 2.55MB
 4dcf83b5f2434df1812dc692d0dd4ebf.epub [物种起源（新世界出版社）] -> 2.53MB
 f39e4b0ffbc0483bbb4154e15dec2093.epub [经济学的思维方式] -> 2.51MB
 d521b5ca4b1e4d398ada48ab85dae5a4.epub [罗伯特议事规则] -> 2.50MB
