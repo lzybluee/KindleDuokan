@@ -1,4 +1,4 @@
-Free Space: 20.25MB
+Free Space: 19.13MB
 
 documents\dictionaries\Oxford_Dictionary_of_English.azw
 documents\dictionaries\The_New_Oxford_American_Dictionary.azw
@@ -20,6 +20,7 @@ Novels\J. R. R. Tolkien\The Lord of the Rings - J. R. R. Tolkien.mobi -> 8.41MB
 Oracle\午夜将至：核战边缘的肯尼迪、赫鲁晓夫与卡斯特罗.epub -> 7.45MB
 mobi\银河英雄传说.mobi -> 6.97MB
 Oracle\伊莎贝拉：武士女王.epub -> 6.38MB
+M\34.不敢懈怠：曼德拉的总统岁月.epub -> 6.36MB
 mobi\外文\追忆似水年华.mobi -> 6.26MB
 M\08.耳语者：斯大林时代苏联的私人生活.epub -> 6.21MB
 尼尔盖曼作品集.mobi -> 6.04MB
@@ -47,6 +48,7 @@ M\25.娜塔莎之舞：俄罗斯文化史.epub -> 3.57MB
 M\23.金与铁：俾斯麦、布莱希罗德与德意志帝国的建立.epub -> 3.46MB
 mobi\魔戒.mobi -> 3.40MB
 English\老友记剧本.mobi -> 3.31MB
+那不勒斯四部曲.mobi -> 3.26MB
 Oracle\1453：君士坦丁堡之战.epub -> 3.25MB
 mobi\历史人文\中国近代史 下册.mobi -> 3.24MB
 M\16.信任：社会美德与创造经济繁荣.epub -> 3.03MB
@@ -131,12 +133,14 @@ mobi\经济生活\生活中的经济学.mobi -> 0.72MB
 Novels\J. K. Rowling\Harry Potter and the Prisoner of Azkaban - J. K. Rowling.mobi -> 0.70MB
 mobi\历史人文\论中国.mobi -> 0.67MB
 Oracle\我是谁？如果有我，有几个我？.epub -> 0.66MB
+M\35.圣经与利剑.epub -> 0.65MB
 M\31.回访历史：新东欧之旅.epub -> 0.64MB
 mobi\历史人文\人在欧洲.mobi -> 0.63MB
 mobi\中文\围城.mobi -> 0.63MB
 Novels\J. K. Rowling\Harry Potter and the Sorcerer's Stone - J. K. Rowling.mobi -> 0.62MB
 Oracle\上帝与黄金：英国、美国与现代世界的形成.epub -> 0.62MB
 mobi\中文\歌舞伎町案内人.mobi -> 0.61MB
+一百个人的十年.mobi -> 0.60MB
 少年Pi的奇幻漂流.mobi -> 0.60MB
 mobi\科学技术\狂热分子.mobi -> 0.59MB
 M\06.事实即颠覆：无以名之的十年的政治写作.epub -> 0.57MB
@@ -324,7 +328,7 @@ e0b638463ad142ebb42f6ec68d12a256.epub [万有引力之虹] -> 3.62MB
 e70ca91e15d4417b9faf6f14f624c4b6.epub [解忧杂货店] -> 3.53MB
 7c9fab90657b47ce880a689e808743b5.epub [塞尔伯恩博物志] -> 3.52MB
 76cbfca1b16140b38c51fdcc30883907.epub [异类：不一样的成功启示录（新版）] -> 3.43MB
-6c470e6d9fc047029677b2f896285e4d.epub [我的世界观] -> 3.43MB
+6c470e6d9fc047029677b2f896285e4d.epub [我的世界观（第十四届『文津图书奖』获奖作品）] -> 3.43MB
 15ca8ba2309e4960aa5fc890edfd4d88.epub [西游记] -> 3.42MB
 42c57aba83b548c0a58f2419e9d16ec1.epub [国富论（全译本）] -> 3.40MB
 862e9bc21f654150840acc5e652fa22a.epub [牛津通识读本：考古学的过去与未来（中文版）] -> 3.39MB
