@@ -100,10 +100,11 @@ public class Rating {
 	public static void main(String[] args) throws Exception {
 		Vector<Book> list = getList();
 		for (Book book : list) {
-			String content = readUrl("https://www.douban.com/search?cat=1001&q=" + book.title.replaceAll("（.*）", "")
-					.replace("多看文库·", "").replaceAll(" ", "+").replace("霍金经典三部曲", "时间简史").replace("安·兰德作品集", "阿特拉斯耸耸肩")
-					.replace("斯蒂芬金经典系列", "肖申克的救赎").replace("道金斯科学经典系列", "自私的基因").replace("世界文学名著", "安娜·卡列尼娜")
-					.replace("何伟三部曲", "寻路中国").replace("最璀璨的银河", "流浪地球"));
+			String content = readUrl("https://www.douban.com/search?cat=1001&q="
+					+ book.title.replaceAll("（.*）", "").replaceAll("^\\d+\\.", "").replace("多看文库·", "")
+							.replaceAll(" ", "+").replace("霍金经典三部曲", "时间简史").replace("安·兰德作品集", "阿特拉斯耸耸肩")
+							.replace("斯蒂芬金经典系列", "肖申克的救赎").replace("道金斯科学经典系列", "自私的基因").replace("世界文学名著", "安娜·卡列尼娜")
+							.replace("何伟三部曲", "寻路中国").replace("最璀璨的银河", "流浪地球").replace("丹布朗作品集", "天使与魔鬼"));
 			Pattern p = Pattern.compile("<span>\\[.*>(.*?) </a>");
 			Matcher m = p.matcher(content);
 			if (m.find()) {
@@ -123,6 +124,7 @@ public class Rating {
 				}
 			}
 			System.out.println(book);
+			Thread.sleep(3000);
 		}
 		Collections.sort(list, new Comparator<Book>() {
 			@Override
