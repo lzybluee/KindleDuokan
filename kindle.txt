@@ -1,4 +1,4 @@
-Free Space: 232.13MB
+Free Space: 168.97MB
 
 documents\dictionaries\The_New_Oxford_American_Dictionary.azw
 documents\dictionaries\Oxford_Dictionary_of_English.azw
@@ -21,6 +21,7 @@ M\40.战时的第三帝国.epub -> 7.87MB
 进化心理学.mobi -> 7.86MB
 Oracle\午夜将至：核战边缘的肯尼迪、赫鲁晓夫与卡斯特罗.epub -> 7.45MB
 M\39.当权的第三帝国.epub -> 7.29MB
+M\47.崩盘：全球金融危机如何重塑世界.epub -> 7.04MB
 mobi\银河英雄传说.mobi -> 6.97MB
 Oracle\伊莎贝拉：武士女王.epub -> 6.38MB
 M\34.不敢懈怠：曼德拉的总统岁月.epub -> 6.36MB
@@ -31,10 +32,12 @@ M\08.耳语者：斯大林时代苏联的私人生活.epub -> 6.21MB
 M\38.第三帝国的到来.epub -> 5.40MB
 M\27.教宗与墨索里尼：庇护十一世与法西斯崛起秘史.epub -> 5.36MB
 M\32.克里米亚战争：被遗忘的帝国博弈.epub -> 5.18MB
+清明上河图密码.epub -> 5.02MB
 mobi\外文\莎士比亚全集.mobi -> 4.96MB
 mobi\中文\韩寒作品集.mobi -> 4.94MB
 M\11.政治秩序与政治衰败：从工业革命到民主全球化.epub -> 4.83MB
 Oracle\革命之夏：美国独立的起源.epub -> 4.75MB
+M\45.滔天洪水：第一次世界大战与全球秩序的重建.epub -> 4.74MB
 Novels\J. R. R. Tolkien\The Hobbit_ Or There and Back Again - J. R. R. Tolkien.mobi -> 4.69MB
 Oracle\金雀花王朝：缔造英格兰的武士国王与王后们.epub -> 4.61MB
 mobi\历史人文\中国近代史 上册.mobi -> 4.51MB
@@ -42,6 +45,7 @@ M\20.奥斯曼帝国的衰亡：一战中东，1914—1920.epub -> 4.41MB
 古拉格群岛.mobi -> 4.39MB
 mobi\外文\小王子.mobi -> 4.36MB
 mobi\外文\是，大臣.mobi -> 4.26MB
+演员自我修养.mobi -> 4.20MB
 M\15.古拉格之恋：一个爱情与求生的真实故事.epub -> 4.17MB
 M\28.明治天皇：1852—1912.epub -> 4.09MB
 物理世界奇遇记.mobi -> 4.07MB
@@ -50,6 +54,7 @@ mobi\中文\说文解字注(上下）.mobi -> 3.59MB
 M\05.政治秩序的起源：从前人类时代到法国大革命.epub -> 3.59MB
 M\25.娜塔莎之舞：俄罗斯文化史.epub -> 3.57MB
 M\23.金与铁：俾斯麦、布莱希罗德与德意志帝国的建立.epub -> 3.46MB
+M\46.风雨横渡：英国、奴隶和美国革命.epub -> 3.41MB
 mobi\魔戒.mobi -> 3.40MB
 English\老友记剧本.mobi -> 3.31MB
 那不勒斯四部曲.mobi -> 3.26MB
@@ -109,6 +114,7 @@ mobi\历史人文\历史的天空.mobi -> 1.26MB
 M\07.苏联的最后一天：莫斯科，1991年12月25日.epub -> 1.26MB
 mobi\历史人文\独裁者手册.mobi -> 1.23MB
 Novels\J. K. Rowling\Harry Potter and the Order of the Phoenix - J. K. Rowling.mobi -> 1.22MB
+M\50.东京绮梦：日本最后的前卫年代.epub -> 1.18MB
 mobi\外文\生命中不能承受之轻.mobi -> 1.12MB
 今日简史：人类命运大议题.mobi -> 1.09MB
 mobi\外文\云图.mobi -> 1.07MB
@@ -142,12 +148,14 @@ Novels\J. K. Rowling\Harry Potter and the Prisoner of Azkaban - J. K. Rowling.mo
 mobi\历史人文\论中国.mobi -> 0.67MB
 Oracle\我是谁？如果有我，有几个我？.epub -> 0.66MB
 M\35.圣经与利剑：英国和巴勒斯坦：从青铜时代到贝尔福宣言.epub -> 0.65MB
+M\49.美国的反智传统.epub -> 0.65MB
 M\31.回访历史：新东欧之旅.epub -> 0.64MB
 mobi\历史人文\人在欧洲.mobi -> 0.63MB
 mobi\中文\围城.mobi -> 0.63MB
 Novels\J. K. Rowling\Harry Potter and the Sorcerer's Stone - J. K. Rowling.mobi -> 0.62MB
 Oracle\上帝与黄金：英国、美国与现代世界的形成.epub -> 0.62MB
 mobi\中文\歌舞伎町案内人.mobi -> 0.61MB
+DnD\D&D 5E SRD.epub -> 0.60MB
 一百个人的十年.mobi -> 0.60MB
 少年Pi的奇幻漂流.mobi -> 0.60MB
 mobi\科学技术\狂热分子.mobi -> 0.59MB
@@ -166,8 +174,9 @@ mobi\历史人文\中国建筑史.mobi -> 0.44MB
 M\36.战争时期日本精神史：1931—1945.epub -> 0.42MB
 mobi\外文\时间旅行者的妻子.mobi -> 0.40MB
 M\12.罪孽的报应：德国和日本的战争记忆.epub -> 0.40MB
-M\西方政治传统：近代自由主义之发展.epub -> 0.39MB
+M\48.西方政治传统：近代自由主义之发展.epub -> 0.39MB
 mobi\经济生活\富爸爸穷爸爸.mobi -> 0.38MB
+M\13.档案：一部个人史.epub -> 0.37MB
 Novels\J. K. Rowling\The Tales of Beedle the Bard - J. K. Rowling.mobi -> 0.35MB
 mobi\科学技术\万物简史.mobi -> 0.34MB
 mobi\中文\写在人生边上.mobi -> 0.34MB
@@ -176,7 +185,6 @@ mobi\历史人文\天安门.mobi -> 0.33MB
 M\22.战争、枪炮与选票.epub -> 0.32MB
 mobi\外文\了不起的盖茨比.mobi -> 0.32MB
 mobi\历史人文\定西孤儿院纪事.mobi -> 0.31MB
-M\13.档案：一部个人史.epub -> 0.31MB
 M\03.断臂上的花朵：人生与法律的奇幻炼金术.epub -> 0.31MB
 mobi\胡林的子女.mobi -> 0.30MB
 mobi\中文\经典常谈.mobi -> 0.29MB
@@ -359,7 +367,6 @@ ff0b92fc7cbe11e28d3100163e0123ac.epub [直捣蜂窝的女孩] -> 1.92MB
 2d7a2573ac7145019c3f1155b8a47b96.epub [西方哲学简史] -> 1.81MB
 a0d3b7925d754339a08898b116efd59a.epub [钱商] -> 1.81MB
 f34604ac7cbe11e28d3100163e0123ac.epub [玩火的女孩] -> 1.79MB
-bc04a1f2251e44ba941d7579d4217d47.epub [莎士比亚故事集] -> 1.78MB
 7530f556bfb543bbb05222172266731b.epub [恶意] -> 1.75MB
 73fcdfc61d9d406b8af5a55875c4a304.epub [我们为什么离正义越来越远] -> 1.70MB
 9633d518038c48449de8787a7ca55d72.epub [罗马神话（经典译林）] -> 1.67MB
