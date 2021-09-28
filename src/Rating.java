@@ -124,7 +124,7 @@ public class Rating {
 				}
 			}
 			System.out.println(book);
-			Thread.sleep(3000);
+			Thread.sleep(30000);
 		}
 		Collections.sort(list, new Comparator<Book>() {
 			@Override
