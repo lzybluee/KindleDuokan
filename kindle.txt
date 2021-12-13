@@ -1,4 +1,4 @@
-Free Space: 168.97MB
+Free Space: 166.95MB
 
 documents\dictionaries\The_New_Oxford_American_Dictionary.azw
 documents\dictionaries\Oxford_Dictionary_of_English.azw
@@ -153,12 +153,14 @@ M\31.回访历史：新东欧之旅.epub -> 0.64MB
 mobi\历史人文\人在欧洲.mobi -> 0.63MB
 mobi\中文\围城.mobi -> 0.63MB
 Novels\J. K. Rowling\Harry Potter and the Sorcerer's Stone - J. K. Rowling.mobi -> 0.62MB
+M\48.西方政治传统：近代自由主义之发展.epub -> 0.62MB
 Oracle\上帝与黄金：英国、美国与现代世界的形成.epub -> 0.62MB
 mobi\中文\歌舞伎町案内人.mobi -> 0.61MB
 DnD\D&D 5E SRD.epub -> 0.60MB
 一百个人的十年.mobi -> 0.60MB
 少年Pi的奇幻漂流.mobi -> 0.60MB
 mobi\科学技术\狂热分子.mobi -> 0.59MB
+M\51.身份政治：对尊严与认同的渴求.epub -> 0.57MB
 M\06.事实即颠覆：无以名之的十年的政治写作.epub -> 0.57MB
 mobi\外文\城堡.mobi -> 0.57MB
 Novels\J. K. Rowling\Harry Potter and the Chamber of Secrets - J. K. Rowling.mobi -> 0.57MB
@@ -174,7 +176,6 @@ mobi\历史人文\中国建筑史.mobi -> 0.44MB
 M\36.战争时期日本精神史：1931—1945.epub -> 0.42MB
 mobi\外文\时间旅行者的妻子.mobi -> 0.40MB
 M\12.罪孽的报应：德国和日本的战争记忆.epub -> 0.40MB
-M\48.西方政治传统：近代自由主义之发展.epub -> 0.39MB
 mobi\经济生活\富爸爸穷爸爸.mobi -> 0.38MB
 M\13.档案：一部个人史.epub -> 0.37MB
 Novels\J. K. Rowling\The Tales of Beedle the Bard - J. K. Rowling.mobi -> 0.35MB
