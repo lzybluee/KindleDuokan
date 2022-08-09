@@ -95,7 +95,13 @@ class Main {
 						delete(new File(mobiFolder + book + ".epub.dir"));
 					}
 				}
-				if (v.contains(".sdr") && !v.contains(".mobi") && !v.contains(".epub")) {
+				if (v.contains(".pdf.dir") && !v.contains(".pdf")) {
+					System.out.println(book + ".pdf.dir");
+					if (DELETE_FILE) {
+						delete(new File(mobiFolder + book + ".pdf.dir"));
+					}
+				}
+				if (v.contains(".sdr") && !v.contains(".mobi") && !v.contains(".epub") && !v.contains(".pdf")) {
 					System.out.println(book + ".sdr");
 					if (DELETE_FILE) {
 						delete(new File(mobiFolder + book + ".sdr"));
@@ -151,6 +157,12 @@ class Main {
 				mobiSizeList.put(key + ".epub", f.length());
 			} else if (name.endsWith(".epub.dir")) {
 				addItem(mobiList, name.substring(mobiFolder.length()), ".epub.dir");
+			} else if (name.endsWith(".pdf")) {
+				String key = addItem(mobiList, name.substring(mobiFolder.length()), ".pdf");
+				addBookName(key);
+				mobiSizeList.put(key + ".pdf", f.length());
+			} else if (name.endsWith(".pdf.dir")) {
+				addItem(mobiList, name.substring(mobiFolder.length()), ".pdf.dir");
 			} else if (name.endsWith(".sdr")) {
 				addItem(mobiList, name.substring(mobiFolder.length()), ".sdr");
 			} else if (f.isDirectory()) {

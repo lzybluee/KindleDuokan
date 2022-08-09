@@ -31,8 +31,8 @@ public class Rating {
 			reader = new BufferedReader(new FileReader("kindle.txt"));
 			String line;
 			while ((line = reader.readLine()) != null) {
-				if (line.contains(".mobi -> ") || line.contains(".epub -> ")) {
-					Pattern p = Pattern.compile("^(.*\\\\)?(.*)\\.\\w\\w\\w\\w -> (.*)MB$");
+				if (line.contains(".mobi -> ") || line.contains(".epub -> ") || line.contains(".pdf -> ")) {
+					Pattern p = Pattern.compile("^(.*\\\\)?(.*)\\.[^.]+ -> (.*)MB$");
 					Matcher m = p.matcher(line);
 					if (m.find()) {
 						Book book = new Book();
