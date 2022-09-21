@@ -1,4 +1,4 @@
-Free Space: 41.76MB
+Free Space: 35.66MB
 
 documents\dictionaries\The_New_Oxford_American_Dictionary.azw
 documents\dictionaries\Oxford_Dictionary_of_English.azw
@@ -57,6 +57,7 @@ mobi\历史人文\原来这才是春秋.mobi -> 3.68MB
 mobi\中文\说文解字注(上下）.mobi -> 3.59MB
 M\05.政治秩序的起源：从前人类时代到法国大革命.epub -> 3.59MB
 M\25.娜塔莎之舞：俄罗斯文化史.epub -> 3.57MB
+清单革命.epub -> 3.55MB
 M\23.金与铁：俾斯麦、布莱希罗德与德意志帝国的建立.epub -> 3.46MB
 M\46.风雨横渡：英国、奴隶和美国革命.epub -> 3.41MB
 mobi\魔戒.mobi -> 3.40MB
@@ -123,6 +124,7 @@ M\55.刚果战争：失败的利维坦与被遗忘的非洲大战.epub -> 1.15MB
 mobi\外文\生命中不能承受之轻.mobi -> 1.12MB
 今日简史：人类命运大议题.mobi -> 1.09MB
 mobi\外文\云图.mobi -> 1.07MB
+M\56.阿拉伯人的梦想宫殿：民族主义、世俗化与现代中东的困境.epub -> 1.06MB
 mobi\外文\第二十二条军规.mobi -> 1.04MB
 mobi\外文\昨日的世界.mobi -> 1.01MB
 M\41.耶路撒冷之前的艾希曼：平庸面具下的大屠杀刽子手.epub -> 1.00MB
@@ -187,6 +189,7 @@ mobi\外文\时间旅行者的妻子.mobi -> 0.40MB
 M\12.罪孽的报应：德国和日本的战争记忆.epub -> 0.40MB
 mobi\经济生活\富爸爸穷爸爸.mobi -> 0.38MB
 M\13.档案：一部个人史.epub -> 0.37MB
+M\57.贪婪已死：个人主义之后的政治.epub -> 0.36MB
 Novels\J. K. Rowling\The Tales of Beedle the Bard - J. K. Rowling.mobi -> 0.35MB
 mobi\科学技术\万物简史.mobi -> 0.34MB
 mobi\中文\写在人生边上.mobi -> 0.34MB
