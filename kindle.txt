@@ -1,4 +1,4 @@
-Free Space: 104.59MB
+Free Space: 75.11MB
 
 documents\dictionaries\The_New_Oxford_American_Dictionary.azw
 documents\dictionaries\Oxford_Dictionary_of_English.azw
@@ -44,6 +44,7 @@ Novels\J. R. R. Tolkien\The Hobbit_ Or There and Back Again - J. R. R. Tolkien.m
 Oracle\金雀花王朝：缔造英格兰的武士国王与王后们.epub -> 4.61MB
 mobi\历史人文\中国近代史 上册.mobi -> 4.51MB
 M\20.奥斯曼帝国的衰亡：一战中东，1914—1920.epub -> 4.41MB
+Novels\Steve Jobs - Isaacson Walter.mobi -> 4.39MB
 古拉格群岛.mobi -> 4.39MB
 mobi\外文\小王子.mobi -> 4.36MB
 mobi\外文\是，大臣.mobi -> 4.26MB
@@ -72,6 +73,7 @@ M\10.大断裂：人类本性与社会秩序的重建.epub -> 2.80MB
 mobi\经济生活\经济学原理.mobi -> 2.67MB
 M\14.布达佩斯往事：冷战时期一个东欧家庭的秘密档案.epub -> 2.63MB
 mobi\历史人文\四书五经.mobi -> 2.57MB
+Novels\George R. R. Martin\A Storm of Swords - George R. R. Martin.mobi -> 2.51MB
 Oracle\天国之秋.epub -> 2.49MB
 mobi\历史人文\罗马帝国衰亡史.mobi -> 2.43MB
 Oracle\失败的帝国：从斯大林到戈尔巴乔夫.epub -> 2.43MB
@@ -81,12 +83,16 @@ Oracle\安第斯山脉的生与死：追寻土匪、英雄和革命者的足迹.
 English\The American Language.mobi -> 2.32MB
 mobi\科学技术\科学史及其与哲学和宗教.mobi -> 2.27MB
 Oracle\伯罗奔尼撒战争史.epub -> 2.26MB
+Novels\Atlas Shrugged - Ayn Rand.mobi -> 2.23MB
 mobi\外文\1Q84.mobi -> 2.19MB
+Novels\George R. R. Martin\A Dance With Dragons - George R. R. Martin.mobi -> 2.12MB
 mobi\外文\村上春树合集.mobi -> 2.10MB
+Novels\George R. R. Martin\A Feast for Crows - George R. R. Martin.mobi -> 2.08MB
 Oracle\世界的演变：19世纪史.epub -> 2.08MB
 DnD\SRD.epub -> 2.07MB
 English\Merriam-Webster's Guide to Punctuation and Style.mobi -> 2.06MB
 Oracle\耶路撒冷三千年.epub -> 2.06MB
+Novels\George R. R. Martin\A Clash of Kings - George R. R. Martin.mobi -> 2.05MB
 mobi\丹布朗作品集.mobi -> 1.99MB
 mobi\中文\武林外史.mobi -> 1.95MB
 M\09.零年：1945：现代世界诞生的时刻.epub -> 1.94MB
@@ -99,9 +105,11 @@ Oracle\恺撒：巨人的一生.epub -> 1.81MB
 mobi\历史人文\荷马史诗 伊利亚特.mobi -> 1.78MB
 M\19.我们的后人类未来：生物科技革命的后果.epub -> 1.77MB
 mobi\历史人文\世界电影史.mobi -> 1.67MB
+Novels\George R. R. Martin\A Game Of Thrones - George R. R. Martin.mobi -> 1.66MB
 M\26.日本之镜：日本文化中的英雄与恶人.epub -> 1.66MB
 M\37.印尼Etc.：众神遗落的珍珠.epub -> 1.66MB
 M\29.八月炮火.epub -> 1.63MB
+Novels\Sir Arthur Conan Doyle\The Complete Sherlock Holmes, Volume II - Sir Arthur Conan Doyle.mobi -> 1.61MB
 mobi\中文\七种武器.mobi -> 1.60MB
 M\21.国家构建：21世纪的国家治理与世界秩序.epub -> 1.59MB
 甲骨文.mobi -> 1.54MB
@@ -109,6 +117,7 @@ Oracle\阿拉伯的劳伦斯：战争、谎言、帝国愚行与现代中东的�
 mobi\历史人文\论美国的民主.mobi -> 1.51MB
 mobi\中文\撒哈拉的故事.mobi -> 1.50MB
 失落的秘符.mobi -> 1.47MB
+Novels\Sir Arthur Conan Doyle\The Complete Sherlock Holmes, Volume I - Sir Arthur Conan Doyle.mobi -> 1.44MB
 M\18.活着回来的男人：一个普通日本兵的二战及战后生命史.epub -> 1.43MB
 M\42.残酷剧场：艺术、电影、战争阴影.epub -> 1.40MB
 Oracle\机械宇宙：艾萨克牛顿、皇家学会与现代世界的诞生.epub -> 1.29MB
@@ -124,6 +133,7 @@ mobi\外文\生命中不能承受之轻.mobi -> 1.12MB
 今日简史：人类命运大议题.mobi -> 1.09MB
 mobi\外文\云图.mobi -> 1.07MB
 M\56.阿拉伯人的梦想宫殿：民族主义、世俗化与现代中东的困境.epub -> 1.06MB
+Novels\Ulysses - James Joyce.mobi -> 1.05MB
 mobi\外文\第二十二条军规.mobi -> 1.04MB
 mobi\外文\昨日的世界.mobi -> 1.01MB
 M\41.耶路撒冷之前的艾希曼：平庸面具下的大屠杀刽子手.epub -> 1.00MB
@@ -140,10 +150,12 @@ mobi\历史人文\日本史.mobi -> 0.87MB
 Novels\J. K. Rowling\Harry Potter and the Half-Blood Prince - J. K. Rowling.mobi -> 0.81MB
 mobi\历史人文\真相与自白.mobi -> 0.80MB
 English\Merriam-Webster's Vocabulary Builder.mobi -> 0.78MB
+Novels\Howard Phillips Lovecraft\Lovecraft's Fiction Volume I, 1905-1925 - Howard Phillips Lovecraft.mobi -> 0.77MB
 mobi\历史人文\文明的冲突与世界秩序的重建.mobi -> 0.76MB
 DOOM启示录.mobi -> 0.75MB
 M\30.资本之都：21世纪德里的美好与野蛮.epub -> 0.74MB
 mobi\历史人文\旧制度与大革命.mobi -> 0.74MB
+Novels\Douglas Adams\The Hitchhiker's Guide to the Galaxy - Douglas Adams.mobi -> 0.74MB
 mobi\外文\百年孤独.mobi -> 0.73MB
 mobi\中文\曾国藩家书.mobi -> 0.72MB
 Oracle\第二次世界大战在亚洲及太平洋的起源.epub -> 0.72MB
@@ -153,7 +165,10 @@ Novels\J. K. Rowling\Harry Potter and the Prisoner of Azkaban - J. K. Rowling.mo
 M\44.救赎者：拉丁美洲的面孔与思想.epub -> 0.69MB
 mobi\历史人文\近距离看美国2 - 我也有一个梦想.mobi -> 0.69MB
 洞穴奇案.mobi -> 0.68MB
+Novels\Howard Phillips Lovecraft\Lovecraft's Fiction Volume III, 1928-193 - Howard Phillips Lovecraft.mobi -> 0.68MB
 mobi\历史人文\论中国.mobi -> 0.67MB
+Novels\Howard Phillips Lovecraft\Lovecraft's Fiction Volume IV, 1932-1936 - Howard Phillips Lovecraft.mobi -> 0.67MB
+Novels\Howard Phillips Lovecraft\Lovecraft's Fiction Volume II, 1926-1928 - Howard Phillips Lovecraft.mobi -> 0.67MB
 Oracle\我是谁？如果有我，有几个我？.epub -> 0.66MB
 mobi\历史人文\近距离看美国4 - 如彗星划过夜空.mobi -> 0.66MB
 M\35.圣经与利剑：英国和巴勒斯坦：从青铜时代到贝尔福宣言.epub -> 0.65MB
@@ -161,6 +176,7 @@ M\49.美国的反智传统.epub -> 0.65MB
 M\31.回访历史：新东欧之旅.epub -> 0.64MB
 mobi\历史人文\人在欧洲.mobi -> 0.63MB
 mobi\中文\围城.mobi -> 0.63MB
+Novels\Animal farm_ a fairy story - George Orwell.mobi -> 0.63MB
 Novels\J. K. Rowling\Harry Potter and the Sorcerer's Stone - J. K. Rowling.mobi -> 0.62MB
 M\48.西方政治传统：近代自由主义之发展.epub -> 0.62MB
 mobi\历史人文\近距离看美国3 - 总统是靠不住的.mobi -> 0.62MB
@@ -187,10 +203,12 @@ mobi\历史人文\中国建筑史.mobi -> 0.44MB
 M\36.战争时期日本精神史：1931—1945.epub -> 0.42MB
 mobi\外文\时间旅行者的妻子.mobi -> 0.40MB
 M\12.罪孽的报应：德国和日本的战争记忆.epub -> 0.40MB
+Novels\1984 - George Orwell.mobi -> 0.40MB
 mobi\经济生活\富爸爸穷爸爸.mobi -> 0.38MB
 M\13.档案：一部个人史.epub -> 0.37MB
 M\57.贪婪已死：个人主义之后的政治.epub -> 0.36MB
 Novels\J. K. Rowling\The Tales of Beedle the Bard - J. K. Rowling.mobi -> 0.35MB
+Novels\Douglas Adams\The Restaurant at the End of the Univers - Douglas Adams.mobi -> 0.34MB
 mobi\科学技术\万物简史.mobi -> 0.34MB
 mobi\中文\写在人生边上.mobi -> 0.34MB
 mobi\外文\麦田里的守望者.mobi -> 0.33MB
@@ -201,9 +219,14 @@ mobi\历史人文\定西孤儿院纪事.mobi -> 0.31MB
 M\52.漫长的战败：日本的文化创伤、记忆与认同.epub -> 0.31MB
 M\03.断臂上的花朵：人生与法律的奇幻炼金术.epub -> 0.31MB
 mobi\胡林的子女.mobi -> 0.30MB
+Novels\Douglas Adams\Mostly harmless - Douglas Adams.mobi -> 0.29MB
+Novels\Douglas Adams\So Long, and Thanks for All the Fish - Douglas Adams.mobi -> 0.29MB
+Novels\Douglas Adams\Life, the Universe and Everything - Douglas Adams.mobi -> 0.29MB
 mobi\中文\经典常谈.mobi -> 0.29MB
 mobi\当彩色的声音尝起来是甜的.mobi -> 0.27MB
 M\24.创造日本：1853—1964.epub -> 0.26MB
+M\58.最底层的十亿人：贫穷国家为何失败.epub -> 0.26MB
+Novels\The Great Gatsby - F. Scott Fitzgerald.mobi -> 0.24MB
 mobi\外文\万物有灵且美.mobi -> 0.18MB
 mobi\科学技术\狭义与广义相对论浅说.mobi -> 0.18MB
 mobi\当世界年纪还小的时候.mobi -> 0.14MB
