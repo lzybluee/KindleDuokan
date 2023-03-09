@@ -1,9 +1,10 @@
-Free Space: 75.11MB
+Free Space: 32.31MB
 
 documents\dictionaries\The_New_Oxford_American_Dictionary.azw
 documents\dictionaries\Oxford_Dictionary_of_English.azw
 
 文明的故事.epub -> 75.87MB
+How to 如何不切实际地解决实际问题.epub -> 26.06MB
 凡尔纳全集.mobi -> 25.08MB
 伟大的思想套装.epub -> 15.69MB
 Oracle\征服者：葡萄牙帝国的崛起.epub -> 15.52MB
@@ -12,6 +13,7 @@ Oracle\奥古斯都：从革命者到皇帝.epub -> 13.59MB
 中华经典藏书下部.epub -> 11.76MB
 Oracle\奠基者：独立战争那一代.epub -> 10.06MB
 mobi\历史人文\圣经.mobi -> 9.86MB
+What if 那些古怪又让人忧心的问题.epub -> 9.70MB
 Oracle\财富之城：威尼斯海洋霸权.epub -> 9.34MB
 Oracle\海洋帝国：地中海大决战.epub -> 9.08MB
 mobi\外文\斯蒂芬金经典系列.mobi -> 9.08MB
@@ -47,6 +49,7 @@ M\20.奥斯曼帝国的衰亡：一战中东，1914—1920.epub -> 4.41MB
 Novels\Steve Jobs - Isaacson Walter.mobi -> 4.39MB
 古拉格群岛.mobi -> 4.39MB
 mobi\外文\小王子.mobi -> 4.36MB
+一想到还有95%的问题留给人类，我就放心了.epub -> 4.31MB
 mobi\外文\是，大臣.mobi -> 4.26MB
 演员自我修养.mobi -> 4.20MB
 M\15.古拉格之恋：一个爱情与求生的真实故事.epub -> 4.17MB
@@ -120,6 +123,7 @@ mobi\中文\撒哈拉的故事.mobi -> 1.50MB
 Novels\Sir Arthur Conan Doyle\The Complete Sherlock Holmes, Volume I - Sir Arthur Conan Doyle.mobi -> 1.44MB
 M\18.活着回来的男人：一个普通日本兵的二战及战后生命史.epub -> 1.43MB
 M\42.残酷剧场：艺术、电影、战争阴影.epub -> 1.40MB
+红楼梦脂评汇校本.epub -> 1.40MB
 Oracle\机械宇宙：艾萨克牛顿、皇家学会与现代世界的诞生.epub -> 1.29MB
 mobi\历史人文\我的前半生.mobi -> 1.28MB
 mobi\科学技术\猜想与反驳.mobi -> 1.27MB
