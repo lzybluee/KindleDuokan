@@ -1,12 +1,8 @@
-Free Space: 21.77MB
+Free Space: 21.62MB
 
 documents\dictionaries\The_New_Oxford_American_Dictionary.azw
 documents\dictionaries\Oxford_Dictionary_of_English.azw
 
-What if 那些古怪又让人忧心的问题.epub.dir
-delete F:\documents\What if 那些古怪又让人忧心的问题.epub.dir
-How to 如何不切实际地解决实际问题.epub.dir
-delete F:\documents\How to 如何不切实际地解决实际问题.epub.dir
 文明的故事.epub -> 75.87MB
 汗青堂系列精选集.epub -> 57.04MB
 凡尔纳全集.mobi -> 25.08MB
