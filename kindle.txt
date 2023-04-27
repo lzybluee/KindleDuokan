@@ -1,8 +1,12 @@
-Free Space: 25.85MB
+Free Space: 21.77MB
 
 documents\dictionaries\The_New_Oxford_American_Dictionary.azw
 documents\dictionaries\Oxford_Dictionary_of_English.azw
 
+What if 那些古怪又让人忧心的问题.epub.dir
+delete F:\documents\What if 那些古怪又让人忧心的问题.epub.dir
+How to 如何不切实际地解决实际问题.epub.dir
+delete F:\documents\How to 如何不切实际地解决实际问题.epub.dir
 文明的故事.epub -> 75.87MB
 汗青堂系列精选集.epub -> 57.04MB
 凡尔纳全集.mobi -> 25.08MB
@@ -55,6 +59,7 @@ M\28.明治天皇：1852—1912.epub -> 4.09MB
 物理世界奇遇记.mobi -> 4.07MB
 M\54.破碎的生活：普通德国人经历的20世纪.epub -> 3.69MB
 mobi\历史人文\原来这才是春秋.mobi -> 3.68MB
+沙丘六部曲.epub -> 3.65MB
 mobi\中文\说文解字注(上下）.mobi -> 3.59MB
 M\05.政治秩序的起源：从前人类时代到法国大革命.epub -> 3.59MB
 M\25.娜塔莎之舞：俄罗斯文化史.epub -> 3.57MB
