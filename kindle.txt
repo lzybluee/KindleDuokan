@@ -1,4 +1,4 @@
-Free Space: 21.62MB
+Free Space: 17.88MB
 
 documents\dictionaries\The_New_Oxford_American_Dictionary.azw
 documents\dictionaries\Oxford_Dictionary_of_English.azw
@@ -23,14 +23,15 @@ M\40.战时的第三帝国.epub -> 7.87MB
 Novels\J. K. Rowling\Harry Potter - The Complete Collection.epub -> 7.71MB
 Oracle\午夜将至：核战边缘的肯尼迪、赫鲁晓夫与卡斯特罗.epub -> 7.45MB
 M\39.当权的第三帝国.epub -> 7.29MB
+丹布朗作品集.epub -> 7.08MB
 M\47.崩盘：全球金融危机如何重塑世界.epub -> 7.04MB
 mobi\银河英雄传说.mobi -> 6.97MB
 Oracle\伊莎贝拉：武士女王.epub -> 6.38MB
 M\34.不敢懈怠：曼德拉的总统岁月.epub -> 6.36MB
 mobi\外文\追忆似水年华.mobi -> 6.26MB
 M\08.耳语者：斯大林时代苏联的私人生活.epub -> 6.21MB
-尼尔盖曼作品集.mobi -> 6.04MB
 从惊讶到思考.mobi -> 5.77MB
+尼尔盖曼作品集.epub -> 5.73MB
 M\38.第三帝国的到来.epub -> 5.40MB
 M\27.教宗与墨索里尼：庇护十一世与法西斯崛起秘史.epub -> 5.36MB
 M\32.克里米亚战争：被遗忘的帝国博弈.epub -> 5.18MB
@@ -95,7 +96,6 @@ DnD\SRD.epub -> 2.07MB
 English\Merriam-Webster's Guide to Punctuation and Style.mobi -> 2.06MB
 Oracle\耶路撒冷三千年.epub -> 2.06MB
 Novels\George R. R. Martin\A Clash of Kings - George R. R. Martin.mobi -> 2.05MB
-mobi\丹布朗作品集.mobi -> 1.99MB
 mobi\中文\武林外史.mobi -> 1.95MB
 M\09.零年：1945：现代世界诞生的时刻.epub -> 1.94MB
 M\17.奥斯维辛：一部历史.epub -> 1.94MB
@@ -118,7 +118,6 @@ M\21.国家构建：21世纪的国家治理与世界秩序.epub -> 1.59MB
 Oracle\阿拉伯的劳伦斯：战争、谎言、帝国愚行与现代中东的形成.epub -> 1.53MB
 mobi\历史人文\论美国的民主.mobi -> 1.51MB
 mobi\中文\撒哈拉的故事.mobi -> 1.50MB
-失落的秘符.mobi -> 1.47MB
 Novels\Sir Arthur Conan Doyle\The Complete Sherlock Holmes, Volume I - Sir Arthur Conan Doyle.mobi -> 1.44MB
 M\18.活着回来的男人：一个普通日本兵的二战及战后生命史.epub -> 1.43MB
 M\42.残酷剧场：艺术、电影、战争阴影.epub -> 1.40MB
